@@ -4,10 +4,8 @@ def realizar_backup(dicionario, backup):
     # Limpar o dicionário principal
     dicionario.clear()
 
-# Dicionário principal para armazenar os dados
 dicionario_principal = {}
 
-# Dicionário de backup
 dicionario_backup = {}
 
 while True:
